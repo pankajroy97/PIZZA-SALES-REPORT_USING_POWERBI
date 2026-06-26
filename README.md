@@ -4,7 +4,7 @@ I developed an interactive Swiggy Pizza Sales Report Dashboard using Power BI, a
 Project Objective
 The Swiggy Store wants to create an annual sales report for 2015. So that, the owner of the Swiggy store can understand their customers and grow more sales from Jan 2015 to Dec 2015.
 
-Dataset Used–
+Dataset Used– https://github.com/pankajroy97/PIZZA-SALES-REPORT_USING_POWERBI/blob/main/pizza_sales_excel_file.xlsx
 
 Problem Statement
 KPI Required-
