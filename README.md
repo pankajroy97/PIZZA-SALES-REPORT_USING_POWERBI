@@ -10,17 +10,19 @@ Problem Statement
 
 KPI Required-
 
-Total Revenue
+1) Total Revenue
 
-Average Order of Values
-Total Pizza Sold
-Total Orders
-Average Pizza per order 
+2) Average Order of Values
+3) Total Pizza Sold
+4) Total Orders
+5) Average Pizza per order
+   
 Chart Required-
-Daily Trends for Total Orders
-Monthly Trends for Total Orders
-Percentage of Sales by Pizza Category
-Percentage of Sales by Pizza Size
-Total Sales by Pizza Size
-Top 5 Best Sellers by Revenue, Quantity and Orders
-Bottom 5 Wrost Sellers by Revenue, Quantity and Orders
+
+* Daily Trends for Total Orders
+* Monthly Trends for Total Orders
+* Percentage of Sales by Pizza Category
+* Percentage of Sales by Pizza Size
+* Total Sales by Pizza Size
+* Top 5 Best Sellers by Revenue, Quantity and Orders
+* Bottom 5 Wrost Sellers by Revenue, Quantity and Orders
