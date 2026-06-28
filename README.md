@@ -38,4 +38,5 @@ Dataset Used– https://github.com/pankajroy97/PIZZA-SALES-REPORT_USING_POWERBI/
 * Bottom 5 Wrost Sellers by Revenue, Quantity and Orders  
 
 
-Dashboard - https://github.com/pankajroy97/PIZZA-SALES-REPORT_USING_POWERBI/blob/main/pizza_sale.pdf
+Dashboard - https://github.com/pankajroy97/PIZZA-SALES-REPORT_USING_POWERBI/blob/main/pizza_sale.pdf  
+Live Dashboard in Power BI - https://github.com/pankajroy97/PIZZA-SALES-REPORT_USING_POWERBI/blob/main/pizza_sale.pbix
